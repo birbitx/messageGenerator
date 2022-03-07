@@ -15,14 +15,23 @@
 h1{
     color: #fff;
     font-size: 50px;
-    margin: 50px;
+   padding: 20px;
+}
+p{
+    padding: 30px;
+    color:#fff;
 }
 a{
     text-decoration: none;
     text-align: center;
     background-color: transparent;
     border: 1px solid #fff;
-    border-radius: 50%;
+    border-radius: 25%;
     color: #fff;
+    padding: 10px;
     
+}
+a:hover{
+    color: black;
+    background-color: #fff;
 }
